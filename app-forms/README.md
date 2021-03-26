@@ -13,9 +13,8 @@ form, application form
 
 ### Built With
 
-* [CSS]
-* [JQuery](https://jquery.com)
 * [Php](https://www.php.net)
+* [JQuery](https://jquery.com)
 
 ### Installation
 
@@ -32,4 +31,4 @@ form, application form
 
 ## Contributing
 
-1. Md. Abdul Kader Roni (https://profiles.wordpress.org/kaderuap/)
+1. [Md. Abdul Kader Roni] (https://profiles.wordpress.org/kaderuap/)
