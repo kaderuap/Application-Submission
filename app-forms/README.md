@@ -9,7 +9,8 @@ Application Collection Forms for WordPress Plugin. Collect data and store in cus
 * From application Admin can search and sort by date.
 
 ### Tags
-form, application form
+* __form__ 
+* __application form__
 
 ### Built With
 
@@ -26,8 +27,8 @@ form, application form
 
 ## Usage
 
-[applicant_form] for application form
-[appname] for applicant name
+* __[applicant_form] for application form__
+* __[appname] for applicant name__
 
 ## Contributing
 
