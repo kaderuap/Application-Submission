@@ -1,7 +1,7 @@
 <!-- ABOUT THE PROJECT -->
 ### About The Project
 
-Application Collection Forms for WordPress Plugin. Collect data and store in custom data base. Admin can view the data from admin panel. 
+Application Collect Forms for WordPress Plugin. Collect data and store in a custom data base. Admin can view the data from admin panel. 
 
 * Admin can view last five applicant data from the dashboard.
 * Admin can set pagination for all form submissions.
@@ -21,7 +21,7 @@ Application Collection Forms for WordPress Plugin. Collect data and store in cus
 
 1. Download Plugin
 2. Active Plugin
-3. Copy Shortcode and past where you want to see from
+3. Copy Shortcode and past where you want to implement from
 4. Set pagination, thank you message and email templates.
 5. Let's enjoy.
 
