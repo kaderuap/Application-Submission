@@ -1,0 +1,126 @@
+.apf-container {
+    width: 100%;
+    padding: 10px;
+}
+
+.apf-container .row {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+}
+
+.apf-container .col-sm-12 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+}
+
+.apf-container .col-sm-6 {
+    -webkit-box-flex: 0;
+    -ms-flex: 0 0 50%;
+    flex: 0 0 48%;
+    max-width: 50%;
+    margin: 0 2% 0 0;
+}
+
+.apf-container .col-sm-6:nth-child(2) {
+    margin: 0 0 0 2%;
+}
+
+.apf-container label {
+    margin: 0;
+    padding: 15px 0 7px;
+    font-weight: bold;
+    line-height: 1.2em;
+    font-size: 1em;
+    color: #454545;
+    display: block;
+}
+
+.apf-container sup {
+    color: #ff0100;
+    display: inline-block;
+    position: relative;
+    padding-left: 3px;
+    top: 0px;
+}
+
+.apf-container .form-control {
+    width: 100%;
+    height: 40px;
+    padding: 10px;
+    margin-bottom: 0;
+    border: 1px solid #e5e5e5;
+    border-radius: 2px;
+    color: #454545;
+    font-size: 15px;
+    line-height: 18px;
+    background-color: #fff;
+    background-image: none;
+    box-sizing: border-box;
+    font-family: inherit;
+    -webkit-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+    display: block;
+}
+
+.apf-container .form-control:focus {
+    outline: 0;
+    border-color: #66afe9;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 8px rgba(102, 175, 233, .6);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075), 0 0 8px rgba(102, 175, 233, .6)
+}
+
+.apf-container .form-control-file::before {
+    content: 'Select some files';
+    color: black;
+    display: inline-block;
+    background: -webkit-linear-gradient(top, #f9f9f9, #e3e3e3);
+    border: 1px solid #999;
+    border-radius: 3px;
+    padding: 5px 8px;
+    outline: none;
+    white-space: nowrap;
+    -webkit-user-select: none;
+    cursor: pointer;
+    text-shadow: 1px 1px #fff;
+    font-weight: 700;
+    font-size: 10pt;
+}
+
+.apf-container .form-control-file:hover::before {
+    border-color: black;
+}
+
+.apf-container .form-control-file:active {
+    outline: 0;
+}
+
+.apf-container .form-control-file::before {
+    background: -webkit-linear-gradient(top, #e3e3e3, #f9f9f9);
+}
+
+.apf-container .appBtnBox {
+    width: 100%;
+    padding-top: 20px;
+    overflow: hidden;
+}
+
+.apf-container .error_massage {
+    display: block;
+    color: red;
+    font-weight: bold;
+    line-height: 1.5em;
+    font-size: 1em;
+}
+
+.apf-container .success_massage {
+    display: block;
+    color: #363;
+    font-weight: bold;
+    line-height: 1.5em;
+    font-size: 1em;
+}
