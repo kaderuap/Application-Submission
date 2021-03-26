@@ -31,4 +31,4 @@ form, application form
 
 ## Contributing
 
-1. [Md. Abdul Kader Roni] (https://profiles.wordpress.org/kaderuap/)
+1. Md. Abdul Kader Roni (https://profiles.wordpress.org/kaderuap/)
